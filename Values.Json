@@ -1,0 +1,11 @@
+{
+    "0107-02-0774-01_NGDB_ConnectionString" : "Driver={SQL Server};Server=0107-02-0774-01.Isagenixcorp.com;Database=NGDB;Trusted_Connection=yes;",
+    "0107-02-0774-01_DataArchive_ConnectionString" : "Driver={SQL Server};Server=0107-02-0774-01.Isagenixcorp.com;Database=DataArchive;Trusted_Connection=yes;",
+    "tblVolume_JsonFilePath": "JsonFiles/",
+    "tblVolumeEvents_JsonFilePath": "JsonFiles/tblVolumeEvents_Data.json",
+    "TableName_tblChangeLog" : "tblChangeLog",
+    "TableName_tblVolume" : "tblVolume",
+    "TableName_tblVolumeEvents" : "tblVolumeEvents",
+    "jsonFolderPath" : "JsonFiles/",
+    "DevSql_Server":"Driver={SQL Server};Server=0106-02-0335-01\\DEVSQL1;Database=NGDB;Trusted_Connection=yes;"
+}
